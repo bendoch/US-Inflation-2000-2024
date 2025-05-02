@@ -25,8 +25,8 @@ Infine, per la parte visual è stato utilizzato **PowerBI**, con l'aggiunta di f
 
 ## 🗂️ Struttura della repository
 
-La repository è suddivisa in tre sezioni principali:
-Il main branch contenente il report e due cartelle:
+La repository è suddivisa in tre sezioni principali:<br>
+Il main branch contenente il report e due cartelle:<br>
 
 ├── data/ ← Dati grezzi <br>
 │ ├── Sample_CSV__Consumer_Price_Inflation_001.csv ← Serie storica del CPI <br>
