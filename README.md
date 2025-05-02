@@ -28,14 +28,13 @@ Infine, per la parte visual è stato utilizzato **PowerBI**, con l'aggiunta di f
 La repository è suddivisa in tre sezioni principali:
 Il main branch contenente il report e due cartelle:
 
-'''├── data/ ← Dati grezzi
+├── data/ ← Dati grezzi
 │ ├── Sample_CSV__Consumer_Price_Inflation_001.csv ← Serie storica del CPI
 │ └── wages.url ← Link al file dei salari (Google Drive)
 │
 ├── pipeline/ ← Processo ETL e codice analitico
 │ ├── ETL.txt ← Descrizione dei passaggi eseguiti in Power Query
 │ └── forecast.ipynb ← Analisi predittiva in Python
-'''
 
 ---
 
